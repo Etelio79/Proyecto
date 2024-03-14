@@ -16,12 +16,6 @@ http://tvlatino.club:2082/devil40/VkCBMYP78uZn/337900
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/337901
 
 
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/h8U99ntlH7sFArZgoi/giphy.gif" group-title="EVENTOS DIARIOS", river vs estudiantes
-http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/193901
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/h8U99ntlH7sFArZgoi/giphy.gif" group-title="EVENTOS DIARIOS", inter de milan vs Nashville
-http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/193885
-
-
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
 https://dl.dropboxusercontent.com/scl/fi/n66te5ij10r0mb1ftlkhi/lecc1.mp4?rlkey=sefj8t73o87sb1e0zi5w9ug97&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #2
@@ -1375,10 +1369,27 @@ http://iptvtree.net:8080/F27279/bdad41ff/10921
 http://newlife3.wanicelife.com:8880/6mmc020028/31176499/30054
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJC5xBIRwcpgZS-cpdXcVTOowFGDSqhxzrw&usqp=CAU" group-title="⚽ Deportes argentina", TyC sports play (argentina)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9sBHdPRPy7apvoQnSxPnR6bO5nGpN3CXZw&usqp=CAU" group-title="⚽ Deportes argentina", TyC sports play 2 (argentina)
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina",   TNT Sports (argentina)
 https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/459
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -1
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -2
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -3
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -4
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -5
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -6
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -7
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -8
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⚽eventos tyc sports⚽", tycsportplay -9
+https://d2epjg24mgndbw.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://onx.la/e6e73 " group-title="⭐️ Perú",🇵🇪 PERÚ 🇵🇪
