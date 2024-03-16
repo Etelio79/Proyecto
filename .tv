@@ -205,7 +205,7 @@ http://191.97.60.193:10000/play/a02x/index.m3u8
 http://191.97.60.193:10000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ Cine Premium",CINE| FMH Movies
 http://191.97.60.193:10000/play/a02a/index.m3u8
-EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="⭐️ Cine Premium",CINE| Cine Premium +
+EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="⭐️ Cine Premium",CINE| Premier
 http://191.97.60.193:10000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine Premium",CINE| usa network 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
