@@ -787,6 +787,8 @@ http://novared.pro:8080/motors/checkmotors131021/110290
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30313
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJLN792-09l3i8QDrCLkNZqjiqCvnV5HH1g&usqp=CAU " group-title="⭐️ Infantiles",INF| locomotion
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 01
