@@ -1823,6 +1823,12 @@ https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpH-PQJx08PMDhsGaIgfh9MYzpCZ6xtKGIw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | dw noticias
 http://novared.pro:8080/live/EdwinPallo/PromoTvBoxEdwin/312778.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPSz2l2GUt3FxwcvqYPtny0K_X1mYUMjqHXQ&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | france 24 en español 
+http://galaxypro.online:8080/FranklinBustos/092094FB/376299
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgyrivklAsup_iMZS-jzWGiDrOY0cVK31hw&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | ntn 24 noticias 
+http://galaxypro.online:8080/FranklinBustos/092094FB/87382
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCV-I93IQfK6gPPIQFpQMYWa7BgwnQKIMtw&usqp=CAU  " group-title="⭐️ Bolivia",🇧🇴 | 24/7 vecinos
+http://galaxypro.online:8080/FranklinBustos/092094FB/264761
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes Bolivia", faceta tv
