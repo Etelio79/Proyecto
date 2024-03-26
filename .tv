@@ -1821,6 +1821,8 @@ https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="⭐️ Bolivia",🇧🇴 | Marvision TV
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpH-PQJx08PMDhsGaIgfh9MYzpCZ6xtKGIw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | dw noticias
+http://novared.pro:8080/live/EdwinPallo/PromoTvBoxEdwin/312778.ts
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes Bolivia", faceta tv
